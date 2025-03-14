@@ -29,56 +29,56 @@
 		<dc:title id="title">Understood Betsy</dc:title>
 		<meta property="file-as" refines="#title">Understood Betsy</meta>
 		<dc:subject id="subject-1">Orphans -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-2">Country life -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-3">Vermont -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-2">Country life -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Vermont -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Self-perception -- Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108726</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="term" refines="#subject-2">sh2008100162</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
-		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="term" refines="#subject-3">sj2023050160</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2010112507</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Children’s</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young girl discovers independence, resposibility and newfound confidence after being sent to live in a farmhouse with her extended family.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Nine year old orphan Elizabeth Ann has only known a sheltered life ever since she was adopted by her Great-Aunt Harriet and Aunt Frances, not being allowed to fully experience her childhood or get along with other kids her age due to her aunts’ fears and overprotective parenting.&lt;/p&gt;
+			&lt;p&gt;When Aunt Harriet is taken ill, Aunt Frances is not able to care for both her mother and their young niece, so she's forced to send away Elizabeth Ann to stay with her late mother’s cousins in a rural farm in Vermont.&lt;/p&gt;
+			&lt;p&gt;This drastic change in environment and caretakers creates an opportunity for a young girl to discover who she really is and develop her own outlook on life, leaving behind the fragile and fearful nature of Elizabeth Ann to transform into the healthy, proud and confident Betsy of Vermont.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/dorothy-canfield-fisher"&gt;Dorothy Canfield Fisher&lt;/a&gt; was inspired by her educational background and her belief in the Montessori Method to create a story where a child is able to grow at her own pace, adapt to new circumstances and reach her full potential by doing hands-on activities, developing self-confidence and a personal enthusiasm for learning more about the world around her.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5347</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/understoodbetsy00fishrich</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Understood_Betsy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dorothy-canfield-fisher_understood-betsy</meta>
 		<dc:creator id="author">Dorothy Canfield Fisher</dc:creator>
 		<meta property="file-as" refines="#author">Fisher, Dorothy Canfield</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Dorothy_Canfield_Fisher</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50005248</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50005248</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Alice Kent Stoddard</dc:contributor>
+		<meta property="file-as" refines="#artist">Stoddard, Alice Kent</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Alice Kent Pearson Stoddard</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alice_Kent_Stoddard</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n2004071422</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Franks, Charles</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Sergio Tellez</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Tellez, Sergio</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
