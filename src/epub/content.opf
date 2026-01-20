@@ -53,7 +53,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5347</dc:source>
 		<dc:source>https://archive.org/details/understoodbetsy00fishrich</dc:source>
-		<meta property="se:word-count">47987</meta>
+		<meta property="se:word-count">46981</meta>
 		<meta property="se:reading-ease.flesch">79.8</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Understood_Betsy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dorothy-canfield-fisher_understood-betsy</meta>
